@@ -1,0 +1,51 @@
+PODS:
+  - JZYICommonUI (0.1.0):
+    - JZYICommonUI/JZYIButton (= 0.1.0)
+    - JZYICommonUI/JZYICollectionReusableView (= 0.1.0)
+    - JZYICommonUI/JZYICollectionView (= 0.1.0)
+    - JZYICommonUI/JZYICollectionViewCell (= 0.1.0)
+    - JZYICommonUI/JZYIDatePicker (= 0.1.0)
+    - JZYICommonUI/JZYIImageView (= 0.1.0)
+    - JZYICommonUI/JZYILabel (= 0.1.0)
+    - JZYICommonUI/JZYIPickerView (= 0.1.0)
+    - JZYICommonUI/JZYIProgressView (= 0.1.0)
+    - JZYICommonUI/JZYIScrollView (= 0.1.0)
+    - JZYICommonUI/JZYISwitch (= 0.1.0)
+    - JZYICommonUI/JZYITableView (= 0.1.0)
+    - JZYICommonUI/JZYITableView (= 0.1.0)
+    - JZYICommonUI/JZYITableView (= 0.1.0)
+    - JZYICommonUI/JZYITextField (= 0.1.0)
+    - JZYICommonUI/JZYITextView (= 0.1.0)
+    - JZYICommonUI/JZYIToolbar (= 0.1.0)
+    - JZYICommonUI/JZYIView (= 0.1.0)
+    - JZYICommonUI/JZYIWebView (= 0.1.0)
+  - JZYICommonUI/JZYIButton (0.1.0)
+  - JZYICommonUI/JZYICollectionReusableView (0.1.0)
+  - JZYICommonUI/JZYICollectionView (0.1.0)
+  - JZYICommonUI/JZYICollectionViewCell (0.1.0)
+  - JZYICommonUI/JZYIDatePicker (0.1.0)
+  - JZYICommonUI/JZYIImageView (0.1.0)
+  - JZYICommonUI/JZYILabel (0.1.0)
+  - JZYICommonUI/JZYIPickerView (0.1.0)
+  - JZYICommonUI/JZYIProgressView (0.1.0)
+  - JZYICommonUI/JZYIScrollView (0.1.0)
+  - JZYICommonUI/JZYISwitch (0.1.0)
+  - JZYICommonUI/JZYITableView (0.1.0)
+  - JZYICommonUI/JZYITextField (0.1.0)
+  - JZYICommonUI/JZYITextView (0.1.0)
+  - JZYICommonUI/JZYIToolbar (0.1.0)
+  - JZYICommonUI/JZYIView (0.1.0)
+  - JZYICommonUI/JZYIWebView (0.1.0)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - JZYICommonUI (~> 0.1.0)
+  - Masonry
+
+SPEC CHECKSUMS:
+  JZYICommonUI: 3b15baccfc9ab10b0f1908924c1edefad9a6efde
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: fcc69b5731292229d1e1af3de3b2c9aba5e8aefb
+
+COCOAPODS: 1.4.0
